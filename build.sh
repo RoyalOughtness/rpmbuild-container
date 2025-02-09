@@ -2,4 +2,4 @@
 
 set -ouex pipefail
 
-dnf install -y rpmbuild mock
+dnf install -y rpmbuild mock wget git
